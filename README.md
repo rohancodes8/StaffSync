@@ -1,6 +1,7 @@
-# Corporate Employee Management System (MERN Stack)
+# StaffSync - Modern Human Resource Management Solution
 
-A full-stack Employee Management System built with MongoDB, Express.js, React (Vite), and Node.js. Corporate green/white theme with sidebar navigation, inspired by industrial/corporate sites like IFFCO.
+StaffSync is a MERN Stack-based Human Resource Management System designed to simplify employee management, attendance tracking, payroll processing, leave approval, and workplace announcements.
+
 
 ## Features
 
